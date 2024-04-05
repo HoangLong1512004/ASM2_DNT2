@@ -1,0 +1,608 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "trinhpkph31536@fpt.edu.vn",
+      "password": "nhokgl9x",
+      "username": "kieutrinh"
+    },
+    {
+      "id": "2",
+      "email": "long@gmail.com",
+      "password": "1",
+      "username": "Long"
+    },
+    {
+      "id": "1708389137692.8672",
+      "username": "trinhhhh",
+      "email": "phamkieutrinh30072004@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "1708395755369.3923",
+      "username": "trinhhhhh",
+      "email": "kieutrinh300720004@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": 1712333960431.3562,
+      "username": "goanglong",
+      "email": "Long1@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 1712334484169.3445,
+      "username": "long123",
+      "email": "long123@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "tenSP": "Spider Plant  ",
+      "giaSP": [
+        {
+          "size": "Nhỏ",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "Vừa",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "Lớn",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Cây trồng",
+      "linkAnh": "https://inhat.vn/wp-content/uploads/2022/01/cay-canh-tay-ninh-1-min.jpg",
+      "xuatXu": "Châu Phi",
+      "phanLoai": "Ưa sáng"
+    },
+    {
+      "id": "2",
+      "tenSP": "Song of India  ",
+      "giaSP": [
+        {
+          "size": "Nhỏ",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "Vừa",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "Lớn",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Cây trồng",
+      "linkAnh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAzDB2WpllfOqk6TnoZW3VR11m-ca3t9p6ZgeDsaJILd5gqcXe3JJ28rS1olI7HXmBkRA&usqp=CAU",
+      "xuatXu": "Châu Phi",
+      "phanLoai": "Ưa sáng"
+    },
+    {
+      "id": "3",
+      "tenSP": "Grey Star Calarthea",
+      "giaSP": [
+        {
+          "size": "Nhỏ",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "Vừa",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "Lớn",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Cây trồng",
+      "linkAnh": "https://down-vn.img.susercontent.com/file/bf80b04177c0e13b5aa0730ec6d0e108",
+      "xuatXu": "Châu Á",
+      "phanLoai": "Hàng mới về"
+    },
+    {
+      "id": "4",
+      "tenSP": "Banana Plant",
+      "giaSP": [
+        {
+          "size": "Nhỏ",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "Vừa",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "Lớn",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Cây trồng",
+      "linkAnh": "https://bizweb.dktcdn.net/100/275/164/products/img-0905-093dda7d-e236-4969-8a35-38612357f959.jpg?v=1652773460913",
+      "xuatXu": "Châu Phi",
+      "phanLoai": "Ưa bóng"
+    },
+    {
+      "id": "5",
+      "tenSP": "Black Love Anthurium ",
+      "giaSP": [
+        {
+          "size": "Nhỏ",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "Vừa",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "Lớn",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Cây trồng",
+      "linkAnh": "https://cf.shopee.vn/file/259fa40e082e3b1b34124497957a6160",
+      "xuatXu": "Nam Phi",
+      "phanLoai": "Hàng mới về"
+    },
+    {
+      "id": "6",
+      "tenSP": "Pink Anthurium",
+      "giaSP": [
+        {
+          "size": "Nhỏ",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "Vừa",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "Lớn",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Cây trồng",
+      "linkAnh": "https://image.made-in-china.com/318f0j00tTkUJyqsChoz/anthurium2-mp4.webp",
+      "xuatXu": "Nam Phi",
+      "phanLoai": "Ưa bóng"
+    },
+    {
+      "id": "7",
+      "tenSP": "Planta Trắng",
+      "giaSP": [
+        {
+          "size": "Nhỏ",
+          "price": "5.50",
+          "currency": "$"
+        },
+        {
+          "size": "Vừa",
+          "price": "10.50",
+          "currency": "$"
+        },
+        {
+          "size": "Lớn",
+          "price": "18.50",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Chậu cây trồng",
+      "linkAnh": "https://product.hstatic.net/200000239387/product/chau_dao_lon_2020728bbc874ffeb8d557645bd6b96a_1024x1024.jpg",
+      "xuatXu": "Trung Quốc"
+    },
+    {
+      "id": "8",
+      "tenSP": "Planta Lemon Balm",
+      "giaSP": [
+        {
+          "size": "Nhỏ",
+          "price": "5.50",
+          "currency": "$"
+        },
+        {
+          "size": "Vừa",
+          "price": "10.50",
+          "currency": "$"
+        },
+        {
+          "size": "Lớn",
+          "price": "18.50",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Chậu cây trồng",
+      "linkAnh": "https://cayxinh.vn/wp-content/uploads/2017/12/chau-gom-dat-nung-nau-2.jpg",
+      "xuatXu": "Việt Nam"
+    },
+    {
+      "id": "9",
+      "tenSP": "Bình tưới CB2 SAIC",
+      "giaSP": [
+        {
+          "size": "Nhỏ",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "Vừa",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "Lớn",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Phụ kiện chăm sóc",
+      "linkAnh": "https://suvina.vn/wp-content/uploads/2022/06/SU1.8L-03-Vang-800x800-1.jpg",
+      "xuatXu": "Trung Quốc"
+    },
+    {
+      "id": "10",
+      "tenSP": "Bình xịt Xiaoda ",
+      "giaSP": [
+        {
+          "size": "Nhỏ",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "Vừa",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "Lớn",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Phụ kiện chăm sóc",
+      "linkAnh": "https://chiemtaimobile.vn/images/detailed/29/binh-xit-nuoc-tu-dong-xiaoda-xd-ddph01-1.jpg",
+      "xuatXu": "Hàn Quốc"
+    },
+    {
+      "id": "11",
+      "tenSP": "Bộ cuốc xẻng mini",
+      "giaSP": [
+        {
+          "size": "Nhỏ",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "Vừa",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "Lớn",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Phụ kiện chăm sóc",
+      "linkAnh": "https://salt.tikicdn.com/cache/w1200/ts/product/cd/10/8e/ac83552f354b130b31deb94934aea7c4.jpg",
+      "xuatXu": "Trung Quốc"
+    },
+    {
+      "id": "12",
+      "tenSP": "Giá đỡ Finn Terrazzo ",
+      "giaSP": [
+        {
+          "size": "Nhỏ",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "Vừa",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "Lớn",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Phụ kiện chăm sóc",
+      "linkAnh": "https://tybest.vn/wp-content/uploads/2019/02/gia-do-chau-cay-09..2.jpg",
+      "xuatXu": "Trung Quốc"
+    },
+    {
+      "id": "13",
+      "tenSP": "Lemon Balm Grow Kit ",
+      "giaSP": [
+        {
+          "size": "Nhỏ",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "Vừa",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "Lớn",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Phụ kiện chăm sóc",
+      "linkAnh": "https://s7d9.scene7.com/is/image/dollargeneral/pop-29911201-2",
+      "xuatXu": "Hàn Quốc"
+    },
+    {
+      "id": "14",
+      "tenSP": "Bình tưới Sierra nhỏ ",
+      "giaSP": [
+        {
+          "size": "Nhỏ",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "Vừa",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "Lớn",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Phụ kiện chăm sóc",
+      "linkAnh": "https://img.alicdn.com/imgextra/i2/TB1UoBbNXXXXXaoXpXXXXXXXXXX_!!0-item_pic.jpg_400x400.jpg_.webp",
+      "xuatXu": "Trung Quốc"
+    }
+  ],
+  "carts": [],
+  "orders": [
+    {
+      "id": "cb2c",
+      "idSP": "4",
+      "createAt": "1712314962028",
+      "data": {
+        "Vừa": "1",
+        "Nhỏ": "2"
+      },
+      "totalPrice": 5.91
+    },
+    {
+      "id": "9b4c",
+      "idSP": "12",
+      "createAt": "1712314962046",
+      "data": {
+        "Vừa": "1"
+      },
+      "totalPrice": 3.15
+    },
+    {
+      "id": "728d",
+      "idSP": "2",
+      "createAt": "1712324899944",
+      "data": {
+        "Vừa": "1"
+      },
+      "totalPrice": 3.15
+    },
+    {
+      "id": "7832",
+      "idSP": "3",
+      "createAt": "1712324899963",
+      "data": {
+        "Vừa": "1"
+      },
+      "totalPrice": 3.15
+    },
+    {
+      "id": "eebd",
+      "idSP": "4",
+      "createAt": "1712325204435",
+      "data": {
+        "Vừa": "2"
+      },
+      "totalPrice": 6.3
+    },
+    {
+      "id": "ff22",
+      "idSP": "1",
+      "createAt": "1712332841485",
+      "data": {
+        "S": "1",
+        "Lớn": "1"
+      },
+      "totalPrice": 4.29
+    },
+    {
+      "id": "9c61",
+      "idSP": "1",
+      "createAt": "1712332875950",
+      "data": {
+        "S": "1",
+        "Lớn": "1"
+      },
+      "totalPrice": 4.29
+    },
+    {
+      "id": "0c23",
+      "idSP": "1",
+      "createAt": "1712333245205",
+      "data": {
+        "S": "1",
+        "Lớn": "1"
+      },
+      "totalPrice": 4.29
+    },
+    {
+      "id": "5644",
+      "idSP": "1",
+      "createAt": "1712334028135",
+      "data": {
+        "Vừa": "1"
+      },
+      "totalPrice": 3.15
+    },
+    {
+      "id": "ed53",
+      "idSP": "1",
+      "createAt": "1712334538069",
+      "data": {
+        "Vừa": "2"
+      },
+      "totalPrice": 6.3
+    }
+  ],
+  "customers": [
+    {
+      "id": "034d",
+      "sdt": "0378820956",
+      "address": "Yen Lang, Dong Da, Ha Noi"
+    },
+    {
+      "id": "cec1",
+      "sdt": "0378820956",
+      "address": "Dong Da, Ha Noi"
+    },
+    {
+      "id": "5993",
+      "sdt": "0476456631",
+      "address": "Cao Dang FPT"
+    },
+    {
+      "id": "8b36",
+      "sdt": "0876543234",
+      "address": "Tay Mo"
+    },
+    {
+      "id": "8055",
+      "sdt": "0313455654",
+      "address": "Nhon"
+    },
+    {
+      "id": "d5ce",
+      "sdt": "0987654327",
+      "address": "La Vong"
+    },
+    {
+      "id": "6fd8",
+      "sdt": "0874532210",
+      "address": "Ha Noi"
+    },
+    {
+      "id": "5e75",
+      "sdt": "45",
+      "address": "z"
+    },
+    {
+      "id": "f93f",
+      "sdt": "45",
+      "address": "z"
+    },
+    {
+      "id": "8852",
+      "sdt": "45",
+      "address": "z"
+    },
+    {
+      "id": "6f06",
+      "sdt": "1231231",
+      "address": "123sadasd"
+    },
+    {
+      "id": "b9be",
+      "sdt": "2133213321",
+      "address": "sad"
+    }
+  ],
+  "payments": [
+    {
+      "id": "bd1e",
+      "soThe": "01234567891023",
+      "chuThe": "PHAM KIEU TRINH",
+      "ngay": "30/06/2026",
+      "CVV": "3007"
+    },
+    {
+      "id": "c169",
+      "soThe": "987654342434",
+      "chuThe": "Pham Kieu Trinh",
+      "ngay": "30/07/2027",
+      "CVV": "2345"
+    },
+    {
+      "id": "bf54",
+      "soThe": "98765326767987",
+      "chuThe": "An",
+      "ngay": "30/07/2025",
+      "CVV": "2075"
+    },
+    {
+      "id": "fdd1",
+      "soThe": "98765326767987",
+      "chuThe": "An",
+      "ngay": "30/07/2025",
+      "CVV": "2075"
+    },
+    {
+      "id": "13bf",
+      "soThe": "09876t343456",
+      "chuThe": "Trinh",
+      "ngay": "20/02/2027",
+      "CVV": "1875"
+    },
+    {
+      "id": "29f8",
+      "soThe": "098765432234",
+      "chuThe": "Ann",
+      "ngay": "20/03/2026",
+      "CVV": "2456"
+    },
+    {
+      "id": "212a",
+      "soThe": "sd",
+      "chuThe": "ád",
+      "ngay": "á",
+      "CVV": "ad"
+    },
+    {
+      "id": "c477",
+      "soThe": "21341234",
+      "chuThe": "sdasd",
+      "ngay": "123123",
+      "CVV": "ádasd"
+    },
+    {
+      "id": "2076",
+      "soThe": "12312",
+      "chuThe": "ádasd",
+      "ngay": "123123",
+      "CVV": "sadasd"
+    }
+  ]
+}
